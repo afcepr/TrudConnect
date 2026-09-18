@@ -190,7 +190,7 @@ target/
 # celery beat schedule file
 celerybeat-schedule
 
-# SageMath parsed files
+# SageMath parsed filesS
 *.sage.py
 
 # dotenv
@@ -205,7 +205,7 @@ ENV/
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope project settingsS
 .ropeproject
 
 # mkdocs documentation
